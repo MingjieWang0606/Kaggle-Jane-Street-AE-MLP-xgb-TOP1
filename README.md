@@ -1,5 +1,5 @@
-# -Jane-Street-AE-MLP-xgb-TOP1
-The repository is the Jane Street Market Prediction code.
+# -Jane-Street-AE-MLP-xgb-Current 1th
+The repository is the Jane Street Market Prediction Current 1th code.
 https://www.kaggle.com/c/jane-street-market-prediction/overview
 
 Please refer to the solution:
